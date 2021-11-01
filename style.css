@@ -1,0 +1,18 @@
+body {
+  overflow-x: hidden;
+}
+
+.bg-primary {
+  background-color: #32e013;
+}
+.text-primary {
+  color: #32e013;
+}
+
+.font-alien {
+  font-family: "Orbitron", sans-serif;
+}
+
+.font-nunito {
+  font-family: "Nunito", sans-serif;
+}
